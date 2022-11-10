@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", NIck SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100282
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100283
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100284
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100285
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100286
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100287
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/Nick.png" group-title="Canais | Infantis", Nick FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100288
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100289
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100290
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100291
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100292
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100293
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100294
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/bcf8b23075642cece24b91b2287d5006.png" group-title="Canais | Infantis", Nick JR FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais | Infantis", Anime Station SD
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100324
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100248
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100249
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100250
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100253
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100252
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100251
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/461.png" group-title="Canais | Infantis", Boomerang FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100254
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100255
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100256
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/460.png" group-title="Canais | Infantis", Cartoon Network HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100257
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100258
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100261
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100260
+
+#EXTINF:-1 tvg-logo="https://sky-digitaladmin.s3.amazonaws.com/60.png" group-title="Canais | Infantis", Cartoon Network FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100259
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100262
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100263
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100264
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100265
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100266
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100267
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/9a48ba122798cfb298d2cf78d158c9c9.png" group-title="Canais | Infantis", Discovery Kids FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100268
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | Infantis", Disney Channel SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100307
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | Infantis", Disney Channel HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100308
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | Infantis", Disney Channel HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100309
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | Infantis", Disney Channel FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100310
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/55.png" group-title="Canais | Infantis", Disney Channel FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100312
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100269
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100270
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100272
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100273
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100274
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100275
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/56.png" group-title="Canais | Infantis", Gloob FHD¹ [H265]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100276
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/69756e72dad105bbe9d9f2acba995b04.png" group-title="Canais | Infantis", Gloobinho SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100277
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/69756e72dad105bbe9d9f2acba995b04.png" group-title="Canais | Infantis", Gloobinho HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100278
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/69756e72dad105bbe9d9f2acba995b04.png" group-title="Canais | Infantis", Gloobinho HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100279
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/69756e72dad105bbe9d9f2acba995b04.png" group-title="Canais | Infantis", Gloobinho FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100280
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/69756e72dad105bbe9d9f2acba995b04.png" group-title="Canais | Infantis", Gloobinho FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100281
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100223
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100224
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100225
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100226
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast FHD¹ [H264]
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100227
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/62.png" group-title="Canais | Infantis", Tooncast FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100228
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/618fb858d59d173b28618021045efd3c.png" group-title="Canais | Infantis", TV Ra Tim Bum SD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100233
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/618fb858d59d173b28618021045efd3c.png" group-title="Canais | Infantis", TV Ra Tim Bum  SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100234
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/618fb858d59d173b28618021045efd3c.png" group-title="Canais | Infantis", TV Ra Tim Bum HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100235
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/618fb858d59d173b28618021045efd3c.png" group-title="Canais | Infantis", TV Ra Tim Bum HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100236
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/618fb858d59d173b28618021045efd3c.png" group-title="Canais | Infantis", TV Ra Tim Bum FHD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100237
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/ZooMoo_logo.svg.png" group-title="Canais | Infantis", ZooMoo SD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100230
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/ZooMoo_logo.svg.png" group-title="Canais | Infantis", ZooMoo HD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100231
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/ZooMoo_logo.svg.png" group-title="Canais | Infantis", ZooMoo HD²
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100232
+
+#EXTINF:-1 tvg-logo="http://ucsxiptv.com:8080/images/logos/ZooMoo_logo.svg.png" group-title="Canais | Infantis", ZooMoo FHD¹
+http://s.pdsrv.io:80/078ewnal/mnirjvy1/100229
+
